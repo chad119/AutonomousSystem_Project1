@@ -1,0 +1,2 @@
+autoturtle
+-DCATKIN_DEVEL_PREFIX=/home/chadchiang/Chinghung_Chiang_ws/devel -DCMAKE_INSTALL_PREFIX=/home/chadchiang/Chinghung_Chiang_ws/install -G Unix Makefiles
